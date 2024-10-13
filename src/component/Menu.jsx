@@ -11,7 +11,7 @@ function Menu() {
           <a href="#">Link 3</a>
         </div>
       </div>
-      <h5>Yangiliklar</h5>
+      <h5>Yangiliklar xxx</h5>
       <h5>Maqolalar</h5>
       <h5>Ma'naviy kuni</h5>
       <h5>Interaktiv xizmatlar</h5>
